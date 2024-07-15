@@ -1,0 +1,178 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "gray",
+          "color": "#757575",
+          "name": "Gray"
+        },
+        {
+          "slug": "green",
+          "color": "#388600",
+          "name": "Green"
+        },
+        {
+          "slug": "blue",
+          "color": "#0072CE",
+          "name": "Blue"
+        },
+        {
+          "slug": "red",
+          "color": "#CA143D",
+          "name": "Red"
+        },
+        {
+          "slug": "white",
+          "color": "#ffffff",
+          "name": "White"
+        }
+      ]
+    },
+    "layout": {
+      "contentSize": "1440px",
+      "wideSize": "1440px"
+    },
+    "typography": {
+      "fluid": true,
+      "lineHeight": true,
+      "fontFamilies": [
+        {
+          "fontFace": [
+            {
+              "fontFamily": "Inter",
+              "fontStretch": "normal",
+              "fontStyle": "normal",
+              "fontWeight": "300 400 500 600 700 900",
+              "src": [
+                "file:./assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2"
+              ]
+            }
+          ],
+          "fontFamily": "\"Inter\", sans-serif",
+          "name": "Inter",
+          "slug": "body"
+        },
+        {
+          "fontFamily": "-apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+          "name": "System Sans-serif",
+          "slug": "system-sans-serif"
+        },
+        {
+          "fontFamily": "Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+          "name": "System Serif",
+          "slug": "system-serif"
+        }
+      ],
+      "fontSizes": [
+        {
+          "size": "clamp(1rem, 1.049rem + 0.24vw, 1.14rem)",
+          "name": "Small",
+          "slug": "Small"
+        },
+        {
+          "size": "clamp(1.1rem, 1.021rem + 0.73vw, 1.25rem)",
+          "name": "Standard",
+          "slug": "standard"
+        },
+        {
+          "size": "clamp(2rem, 1.021rem + 0.73vw, 2.6rem)",
+          "name": "Middle",
+          "slug": "middle"
+        },
+        {
+          "size": "clamp(2.2rem, 1.706rem + 1.34vw, 3.5rem)",
+          "name": "Large",
+          "slug": "large"
+        },
+        {
+          "size": "clamp(2.3rem, 1.966rem + 1.71vw, 4.6rem)",
+          "name": "Xtra",
+          "slug": "xtra"
+        },
+        {
+          "size": "clamp(3.375rem, 2.384rem + 3.17vw, 5rem)",
+          "name": "Big",
+          "slug": "big"
+        }
+      ]
+    },
+    "styles": {
+      "blocks": {
+        "core/image": {
+          "variations": {
+            "rounded": {
+              "border": {
+                "radius": true
+              }
+            }
+          }
+        },
+        "elements": {
+          "h1": {
+            "typography": {
+              "fontSize": "var(--wp--preset--font-size--big) !important",
+              "fontWeight": "700"
+            }
+          },
+          "h2": {
+            "typography": {
+              "fontSize": "var(--wp--preset--font-size--xtra) !important",
+              "fontWeight": "700"
+            }
+          },
+          "h3": {
+            "typography": {
+              "fontSize": "var(--wp--preset--font-size--large) !important",
+              "fontWeight": "600"
+            }
+          },
+          "h5": {
+            "typography": {
+              "fontSize": "var(--wp--preset--font-size--standard)",
+              "fontWeight": "400"
+            }
+          }
+        }
+      }
+    },
+    "blocks": {
+      "core/paragraph": {
+        "color": {
+          "custom": false
+        }
+      },
+      "core/heading": {
+        "color": {
+          "custom": false
+        }
+      },
+      "core/column": {
+        "css": "margin: 0 20%;"
+      }
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "Header",
+      "area": "header"
+    },
+    {
+      "name": "header-large-dark",
+      "title": "Header (Dark, large)",
+      "area": "header"
+    },
+    {
+      "name": "header-small-dark",
+      "title": "Header (Dark, small)",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "Footer",
+      "area": "footer"
+    }
+  ]
+}

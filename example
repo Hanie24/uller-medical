@@ -1,0 +1,465 @@
+<!-- wp:da/wp-swiper-slides {"tabsData":[{"clientId":"c4583a67-810f-442b-8a04-ebfffa39457b","slug":"slide-1"}],"className":"hero-swipper"} -->
+<div class="hero-swipper wp-swiper hero-swipper hero-swipper">
+  <div class="wp-swiper__wrapper">
+    <div
+      class="swiper-container swiper"
+      data-swiper='{"data-slidesperview":"1","data-navigation":true,"data-pagination":true,"data-autoplay":false,"data-delay":3000,"data-speed":500,"data-loop":false,"data-effect":"slide","data-direction":"horizontal","data-freemode":false,"data-autoheight":true,"data-spacebetween":0,"data-mousewheel":false,"data-releaseonedges":false,"data-paginationtype":"bullets"}'
+      data-slidesperview="1"
+      data-navigation="true"
+      data-pagination="true"
+      data-autoplay="false"
+      data-delay="3000"
+      data-speed="500"
+      data-loop="false"
+      data-effect="slide"
+      data-direction="horizontal"
+      data-freemode="false"
+      data-autoheight="true"
+      data-spacebetween="0"
+      data-mousewheel="false"
+      data-releaseonedges="false"
+      data-paginationtype="bullets"
+    >
+      <div class="swiper-wrapper">
+        <!-- wp:da/wp-swiper-slide {"slug":"slide-1"} -->
+        <div data-tab="slide-1" class="wp-swiper__slide swiper-slide">
+          <div
+            class="wp-swiper__overlay-color"
+            style="background-color: rgba(0, 0, 0, 0)"
+          ></div>
+          <div class="wp-swiper__slide-content">
+            <!-- wp:cover {"url":"http://localhost:10018/wp-content/uploads/2024/04/Rectangle-1-2.png","id":213,"dimRatio":50,"customOverlayColor":"#70767f","isUserOverlayColor":true,"layout":{"type":"constrained"}} -->
+            <div class="wp-block-cover">
+              <span
+                aria-hidden="true"
+                class="wp-block-cover__background has-background-dim"
+                style="background-color: #70767f"
+              ></span
+              ><img
+                class="wp-block-cover__image-background wp-image-213"
+                alt=""
+                src="http://localhost:10018/wp-content/uploads/2024/04/Rectangle-1-2.png"
+                data-object-fit="cover"
+              />
+              <div class="wp-block-cover__inner-container">
+                <!-- wp:heading {"textAlign":"right","level":1,"style":{"typography":{"lineHeight":"1.1"}},"fontSize":"gigantic"} -->
+                <h1
+                  class="wp-block-heading has-text-align-right has-gigantic-font-size"
+                  style="line-height: 1.1"
+                >
+                  <strong>NEA NED<br />KNEE BRACE</strong>
+                </h1>
+                <!-- /wp:heading -->
+
+                <!-- wp:paragraph {"align":"right"} -->
+                <p class="has-text-align-right">
+                  Una nueva manera de disfrutar la vida
+                </p>
+                <!-- /wp:paragraph -->
+
+                <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+                <div class="wp-block-buttons">
+                  <!-- wp:button {"backgroundColor":"green"} -->
+                  <div class="wp-block-button">
+                    <a
+                      class="wp-block-button__link has-green-background-color has-background wp-element-button"
+                      >Saber más</a
+                    >
+                  </div>
+                  <!-- /wp:button -->
+                </div>
+                <!-- /wp:buttons -->
+              </div>
+            </div>
+            <!-- /wp:cover -->
+          </div>
+        </div>
+        <!-- /wp:da/wp-swiper-slide -->
+      </div>
+    </div>
+    <div class="wp_swiper__navigation">
+      <div class="wp_swiper__navigation-container">
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+<!-- /wp:da/wp-swiper-slides -->
+
+<!-- wp:columns {"style":{"spacing":{"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}}} -->
+<div
+  class="wp-block-columns"
+  style="
+    margin-top: var(--wp--preset--spacing--60);
+    margin-bottom: var(--wp--preset--spacing--60);
+  "
+>
+  <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"backgroundColor":"blue","textColor":"white"} -->
+  <div
+    class="wp-block-column has-white-color has-blue-background-color has-text-color has-background has-link-color"
+    style="
+      padding-top: var(--wp--preset--spacing--70);
+      padding-right: var(--wp--preset--spacing--40);
+      padding-bottom: var(--wp--preset--spacing--70);
+      padding-left: var(--wp--preset--spacing--40);
+    "
+  >
+    <!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+    <h2 class="wp-block-heading has-text-align-center has-huge-font-size">
+      <strong>NOSOTROS</strong>
+    </h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+    <p class="has-text-align-center has-medium-font-size">
+      ULLER MEDICAL Es una empresa que asesora, importa y distribuye productos
+      de alta especialidad quirúrgica. Nuestro principal enfoque es la
+      comercialización de insumos y tecnologías para Cirugía Plástica, Estética
+      y Reconstructiva.  ULLER MEDICAL Es una empresa que asesora, importa y
+      distribuye productos de alta especialidad quirúrgica. Nuestro principal
+      enfoque es la comercialización de insumos y tecnologías para Cirugía
+      Plástica, Estética y Reconstructiva.  ULLER MEDICAL Es una empresa que
+      asesora, importa y distribuye productos de alta especialidad quirúrgica.
+      Nuestro principal enfoque es la comercialización de insumos y tecnologías
+      para Cirugía Plástica, Estética y Reconstructiva.  <br /><br /><br />Con
+      los productos y servicios de ULLER MEDICAL los profesionales de la salud
+      obtienen <br />resultados seguros y eficaces que ayudan a mejorar la
+      calidad<br />de vida de los pacientes.
+    </p>
+    <!-- /wp:paragraph -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:image {"id":225,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full">
+      <img
+        src="http://localhost:10018/wp-content/uploads/2024/04/Group-1.png"
+        alt=""
+        class="wp-image-225"
+      />
+    </figure>
+    <!-- /wp:image -->
+  </div>
+  <!-- /wp:column -->
+
+  <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+  <div
+    class="wp-block-column is-vertically-aligned-center"
+    style="
+      padding-right: var(--wp--preset--spacing--40);
+      padding-left: var(--wp--preset--spacing--40);
+    "
+  >
+    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|gray"}}}},"textColor":"gray","fontSize":"normal"} -->
+    <p
+      class="has-gray-color has-text-color has-link-color has-normal-font-size"
+    >
+      Rodilleras
+    </p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|green"}}}},"textColor":"green","fontSize":"xx-large"} -->
+    <h3
+      class="wp-block-heading has-green-color has-text-color has-link-color has-xx-large-font-size"
+    >
+      <strong>RODILLERO <br />ORTOPEDICA</strong>
+    </h3>
+    <!-- /wp:heading -->
+
+    <!-- wp:paragraph -->
+    <p>
+      Las Rodilleras ortopédicas Push Braces México brindan el<br />mejor
+      soporte para recuperar el movimiento en tu <br />actividad diaria.
+    </p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|blue"}}}},"textColor":"blue"} -->
+    <p class="has-blue-color has-text-color has-link-color">
+      <a
+        href="http://localhost:10018/plastica-y-reconstructiva/"
+        data-type="page"
+        data-id="64"
+        >Ver más</a
+      >
+    </p>
+    <!-- /wp:paragraph -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+  <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}}} -->
+  <div
+    class="wp-block-column is-vertically-aligned-center"
+    style="
+      padding-right: var(--wp--preset--spacing--40);
+      padding-left: var(--wp--preset--spacing--40);
+    "
+  >
+    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|gray"}}}},"textColor":"gray","fontSize":"normal"} -->
+    <p
+      class="has-gray-color has-text-color has-link-color has-normal-font-size"
+    >
+      Férulas
+    </p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|green"}}}},"textColor":"green","fontSize":"xx-large"} -->
+    <h3
+      class="wp-block-heading has-green-color has-text-color has-link-color has-xx-large-font-size"
+    >
+      <strong>FÉRULA PARA<br />PIE CAÍDO</strong>
+    </h3>
+    <!-- /wp:heading -->
+
+    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|gray"}}}},"textColor":"gray"} -->
+    <p class="has-gray-color has-text-color has-link-color">
+      La Férula de Tobillo Pie Push Braces México brinda <br />el mejor soporte
+      para recuperar el movimiento en tu <br />actividad diaria. Vuelve a
+      caminar&nbsp;con seguridad, <br />siente la libertad de movimiento.
+    </p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|blue"}}}},"textColor":"blue"} -->
+    <p class="has-blue-color has-text-color has-link-color">
+      <a
+        href="http://localhost:10018/traumatologia-y-ortopedia/"
+        data-type="page"
+        data-id="62"
+        >Ver más</a
+      >
+    </p>
+    <!-- /wp:paragraph -->
+  </div>
+  <!-- /wp:column -->
+
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:image {"id":230,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full">
+      <img
+        src="http://localhost:10018/wp-content/uploads/2024/04/Rectangle-3.png"
+        alt=""
+        class="wp-image-230"
+      />
+    </figure>
+    <!-- /wp:image -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:freeform -->
+    <div class="layout-part-product">
+      <div class="container-part-product">
+        <article class="item-part-producto">
+          <img
+            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+            src="http://localhost:10018/wp-content/uploads/2024/04/Group-1-450x450.png"
+            sizes="(max-width: 450px) 100vw, 450px"
+            srcset="
+              http://localhost:10018/wp-content/uploads/2024/04/Group-1-450x450.png 450w,
+              http://localhost:10018/wp-content/uploads/2024/04/Group-1-150x150.png 150w
+            "
+            alt=""
+            width="450"
+            height="450"
+          />
+          <h5
+            style="
+              margin: 0 !important;
+              font-weight: 500;
+              font-size: 24px;
+              color: #757575 !important;
+            "
+          >
+            Rodillera Ortopédic...
+          </h5>
+          <p class="p1">Rodillera Deportiva Mecánica con Varillas laterales.</p>
+          <div class="row-add-to-cart">
+            <div>
+              <h6 class="part-free-shipping">ENVIO GRATIS</h6>
+            </div>
+            <div>
+              <a
+                class="part-add-to-cart"
+                href="http://localhost:10018/shop/rodilleras-ortopedicas/rodillera-ortopedica-deportiva-con-varillas-laterales-push-sports/"
+                rel="nofollow"
+                data-product_id="1032"
+                data-product_sku=""
+                ><img
+                  src="http://localhost:10018/wp-content/uploads/2024/05/Group-82.png"
+              /></a>
+            </div>
+          </div>
+        </article>
+        <article class="item-part-producto">
+          <img
+            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+            src="http://localhost:10018/wp-content/uploads/2024/05/Mask-group-1.png"
+            alt=""
+            width="283"
+            height="299"
+          />
+          <h5
+            style="
+              margin: 0 !important;
+              font-weight: 500;
+              font-size: 24px;
+              color: #757575 !important;
+            "
+          >
+            Rodillera Ortopédic...
+          </h5>
+          <p class="p1">Rodillera Ortopédica Mecánica apoyo al caminar.</p>
+          <div class="row-add-to-cart">
+            <div>
+              <h6 class="part-free-shipping">ENVIO GRATIS</h6>
+            </div>
+            <div>
+              <a
+                class="part-add-to-cart"
+                href="http://localhost:10018/shop/rodilleras-ortopedicas/rodillera-ortopedica-mecanica-estabilizadora-push-med/"
+                rel="nofollow"
+                data-product_id="1026"
+                data-product_sku=""
+                ><img
+                  src="http://localhost:10018/wp-content/uploads/2024/05/Group-82.png"
+              /></a>
+            </div>
+          </div>
+        </article>
+        <article class="item-part-producto">
+          <img
+            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+            src="http://localhost:10018/wp-content/uploads/2024/05/Mask-group.png"
+            alt=""
+            width="283"
+            height="299"
+          />
+          <h5
+            style="
+              margin: 0 !important;
+              font-weight: 500;
+              font-size: 24px;
+              color: #757575 !important;
+            "
+          >
+            Rodillera Ortopédic...
+          </h5>
+          <p class="p1">
+            Rodillera elástica de compresión para estabilizar el caminar.<span
+              class="Apple-converted-space"
+              > 
+            </span>
+          </p>
+          <div class="row-add-to-cart">
+            <div>
+              <h6 class="part-free-shipping">ENVIO GRATIS</h6>
+            </div>
+            <div>
+              <a
+                class="part-add-to-cart"
+                href="http://localhost:10018/shop/rodilleras-ortopedicas/rodillera-ortopedica-elastica-de-compresion-push-care/"
+                rel="nofollow"
+                data-product_id="1020"
+                data-product_sku=""
+                ><img
+                  src="http://localhost:10018/wp-content/uploads/2024/05/Group-82.png"
+              /></a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+    <!-- /wp:freeform -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}}} -->
+    <div
+      class="wp-block-buttons"
+      style="
+        margin-top: var(--wp--preset--spacing--60);
+        margin-bottom: var(--wp--preset--spacing--60);
+      "
+    >
+      <!-- wp:button {"backgroundColor":"blue","textColor":"white","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}}} -->
+      <div class="wp-block-button">
+        <a
+          class="wp-block-button__link has-white-color has-blue-background-color has-text-color has-background has-link-color wp-element-button"
+          >Ver más productos</a
+        >
+      </div>
+      <!-- /wp:button -->
+    </div>
+    <!-- /wp:buttons -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}},"backgroundColor":"blue","textColor":"white"} -->
+<div
+  class="wp-block-columns has-white-color has-blue-background-color has-text-color has-background has-link-color"
+  style="
+    padding-top: var(--wp--preset--spacing--60);
+    padding-right: var(--wp--preset--spacing--70);
+    padding-bottom: var(--wp--preset--spacing--60);
+    padding-left: var(--wp--preset--spacing--70);
+  "
+>
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"normal"} -->
+    <h4 class="wp-block-heading has-text-align-center has-normal-font-size">
+      ¿Quieres saber más?
+    </h4>
+    <!-- /wp:heading -->
+
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
+    <p
+      class="has-text-align-center has-large-font-size"
+      style="line-height: 1.2"
+    >
+      Si necesitas<br />información adicional
+    </p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+    <div class="wp-block-buttons">
+      <!-- wp:button {"backgroundColor":"white","textColor":"blue","style":{"elements":{"link":{"color":{"text":"var:preset|color|blue"}}}}} -->
+      <div class="wp-block-button">
+        <a
+          class="wp-block-button__link has-blue-color has-white-background-color has-text-color has-background has-link-color wp-element-button"
+          href="http://localhost:10018/contacto/"
+          >Contáctanos</a
+        >
+      </div>
+      <!-- /wp:button -->
+    </div>
+    <!-- /wp:buttons -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
