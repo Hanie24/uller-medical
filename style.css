@@ -122,6 +122,12 @@ header .custom-logo {
   flex-direction: column;
 }
 
+@media (min-width: 782px) {
+  .wp-container-core-group-is-layout-4.wp-container-core-group-is-layout-4 {
+    flex-direction: row;
+  }
+}
+
 .wp-block-image {
   display: flex !important;
   justify-content: center;
@@ -1121,4 +1127,17 @@ li[class*="product_cat-"] .onsale {
   box-shadow: 1px 0px 5px 0px rgba(0, 0, 0, 0.8);
   padding: 15px;
   border-radius: 18px;
+}
+
+.wc-block-components-totals-wrapper {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.wc-block-components-totals-coupon__form {
+  align-items: center;
+}
+
+.wp-element-button {
+  padding: calc(0.667em + 1px) calc(1.333em + 2px);
 }
