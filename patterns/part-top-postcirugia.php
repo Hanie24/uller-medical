@@ -29,9 +29,13 @@ $loop = new WP_Query( $args );
                     <div class="row-add-to-cart">
                         <div>
                         <?php 
-                            if($product->get_price()) { ?>
-                                <p class="part-regular-price ">$<?php echo $product->get_price(); ?></p>
-                        <?php }  ?>
+                            $price = $product->get_price();
+                            $price_format = number_format($price, 2, '.', ',');
+                            $element_price = "<p class=\"part-regular-price\">{$price_format}</p>";
+                            if($product->get_price()) {
+                                echo $element_price;
+                            }
+                            ?>
                             <h6 class="part-free-shipping">ENVIO GRATIS</h6>  
                         </div>
                         <div>

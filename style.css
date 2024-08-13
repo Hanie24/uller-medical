@@ -46,8 +46,14 @@ header {
 
 main {
   position: relative;
-  padding-top: 130px;
+  padding-top: 80px;
   margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  main {
+    padding-top: 120px;
+  }
 }
 
 .wp-site-blocks {
@@ -155,6 +161,9 @@ header .custom-logo {
   .hero-swipper .wp-swiper__slide,
   .hero-swipper .wp-block-cover {
     height: 750px !important;
+  }
+  .plastica-swipper {
+    height: 650px;
   }
   .scrolled .custom-logo {
     width: 90px;
@@ -1140,4 +1149,14 @@ li[class*="product_cat-"] .onsale {
 
 .wp-element-button {
   padding: calc(0.667em + 1px) calc(1.333em + 2px);
+}
+
+.current-menu-item {
+  text-decoration: underline;
+}
+
+.wp-block-navigation__responsive-container.is-menu-open
+  .wp-block-navigation__responsive-container-content
+  .wp-block-navigation__submenu-container {
+  padding-top: 1em !important;
 }
